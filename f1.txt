@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 je suis la premiere  ligne du fichier f1.txt
 je suis la deuxième  ligne du fichier f1.txt
 je suis la troisieme ligne du fichier f1.txt
 je suis la quatrieme ligne du fichier f1.txt
 
 
+=======
+je suis la premiere ligne du fichier f1.txt
+>>>>>>> f0b16e3 (Modification des 3 fichiers txt)
