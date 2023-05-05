@@ -1,10 +1,2 @@
 tmp/todo.txt
-<<<<<<< HEAD
-tmp/*
-*.html
-*.xml
-*.projetGit
-*.cloneProjetGit
-=======
->>>>>>> ee24a9c (nettoyage du fichier .gitignore)
 
