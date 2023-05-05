@@ -1,2 +1,4 @@
 je suis la premiere ligne du fichier f1.txt
 je suis la deuxieme ligne du fichier f1.txt
+je suis la trosieme ligne du fichier f1.txt
+
