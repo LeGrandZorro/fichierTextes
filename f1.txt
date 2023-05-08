@@ -1,3 +1,5 @@
 je suis la premiere ligne du fichier f1.txt
+je suis la deuxième ligne du fichier f1.txt
+
 
 
