@@ -1,5 +1,1 @@
 je suis la premiere ligne du fichier f2.txt
-<<<<<<< HEAD
-
-=======
->>>>>>> f0b16e3 (Modification des 3 fichiers txt)
